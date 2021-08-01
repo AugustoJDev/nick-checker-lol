@@ -1,4 +1,4 @@
-# ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage.png?v=1627784292833) Nick Checker - [League of Legends](https://na.leagueoflegends.com/pt-br/) ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage.png?v=1627784292833)
+# ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690) Nick Checker - [League of Legends](https://na.leagueoflegends.com/pt-br/) ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690)
 Um script que checa se o apelido de invocador está disponível ou a quantidade de dias para o mesmo ficar disponível ( devido a inatividade do usuário )
 
 ### 📁 Sessões
